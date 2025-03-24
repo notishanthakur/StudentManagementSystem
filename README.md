@@ -1,8 +1,8 @@
 # StudentManagementSystem
-StudentManagementSystem DBMS Project
 
 Student Management System
 1. Introduction
+   
 1.1 Purpose
 The Student Management System (SMS) is designed to streamline student information handling, course management, performance tracking, and attendance monitoring. It provides a user-friendly platform for administrators, teachers, and students to access and manage academic data efficiently.
 
