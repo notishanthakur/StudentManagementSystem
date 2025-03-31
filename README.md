@@ -3,6 +3,7 @@
 01/04/2025
 Created a simple bash script to Create database, Add tables, create nodejs server, create frontend using html and css, and to run the server.
 > ./deploy.sh
+
 used cat to create .html and other files
 
 attached screenshots in /images
