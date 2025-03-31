@@ -3,6 +3,7 @@
 # Ensure script runs with UNIX line endings
 sed -i 's/\r$//' "$0"
 
+# Variables for data
 DEPLOY_PASSWORD="Str0ngPassw0rd!"  # Use a strong password
 DB_NAME="SMS"
 
